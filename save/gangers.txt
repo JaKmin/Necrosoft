@@ -1,0 +1,619 @@
+[
+    {
+        "blessure": false,
+        "exp": 61,
+        "carac": [
+            4,
+            6,
+            4,
+            3,
+            4,
+            1,
+            4,
+            1,
+            9
+        ],
+        "cout": 120,
+        "level_up": 8,
+        "comp": [
+            "Tir au jug\u00e9",
+            "D\u00e9sarmer",
+            "Ma\u00eetre combatant",
+            "Sprint"
+        ],
+        "equip": [
+            "Pistolet Bolter",
+            "\u00c9p\u00e9e Tron\u00e7onneuse"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Rico"
+    },
+    {
+        "blessure": false,
+        "exp": 64,
+        "carac": [
+            4,
+            5,
+            4,
+            3,
+            3,
+            2,
+            4,
+            1,
+            8
+        ],
+        "cout": 60,
+        "level_up": 8,
+        "comp": [
+            "Imp\u00e9tuosit\u00e9",
+            "Pistolero"
+        ],
+        "equip": [
+            "Mitrailleuse"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 63,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            4,
+            2,
+            4,
+            1,
+            9
+        ],
+        "cout": 120,
+        "level_up": 8,
+        "comp": [
+            "\u0152il de lynx",
+            "D\u00e9sarmer"
+        ],
+        "equip": [
+            "\u00c9p\u00e9e Tron\u00e7onneuse",
+            "Pistolet Bolter"
+        ],
+        "bless": [],
+        "gang": "Smelling Rats",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Rico"
+    },
+    {
+        "blessure": false,
+        "exp": 62,
+        "carac": [
+            4,
+            5,
+            3,
+            3,
+            4,
+            1,
+            5,
+            1,
+            7
+        ],
+        "cout": 60,
+        "level_up": 8,
+        "comp": [
+            "Pistolero",
+            "Tir au jug\u00e9",
+            "\u0152il de lynx"
+        ],
+        "equip": [],
+        "bless": [],
+        "gang": "Smelling Rats",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 63,
+        "carac": [
+            4,
+            4,
+            4,
+            3,
+            3,
+            1,
+            4,
+            1,
+            8
+        ],
+        "cout": 120,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Coucou",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Rico"
+    },
+    {
+        "blessure": false,
+        "exp": 64,
+        "carac": [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            3,
+            1,
+            7
+        ],
+        "cout": 60,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Coucou",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 66,
+        "carac": [
+            4,
+            4,
+            4,
+            3,
+            3,
+            1,
+            4,
+            1,
+            8
+        ],
+        "cout": 120,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Encore",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Rico"
+    },
+    {
+        "blessure": false,
+        "exp": 62,
+        "carac": [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            3,
+            1,
+            7
+        ],
+        "cout": 60,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Encore",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 61,
+        "carac": [
+            4,
+            4,
+            4,
+            3,
+            3,
+            1,
+            4,
+            1,
+            8
+        ],
+        "cout": 120,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Un",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Rico"
+    },
+    {
+        "blessure": false,
+        "exp": 65,
+        "carac": [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            3,
+            1,
+            7
+        ],
+        "cout": 60,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "Un",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 61,
+        "carac": [
+            4,
+            3,
+            3,
+            3,
+            3,
+            1,
+            3,
+            1,
+            7
+        ],
+        "cout": 60,
+        "level_up": 0,
+        "comp": [],
+        "equip": [],
+        "bless": [],
+        "gang": "De plus",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Joe le Rigolo"
+    },
+    {
+        "blessure": false,
+        "exp": 24,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            4,
+            1,
+            5,
+            3,
+            9
+        ],
+        "cout": 50,
+        "level_up": 4,
+        "comp": [
+            "\u0152il de lynx"
+        ],
+        "equip": [
+            "Fusil d\u2019Assaut"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 1,
+        "etat": "Indemne",
+        "rang": [
+            4,
+            "Ganger Novice"
+        ],
+        "nom": "Vince"
+    },
+    {
+        "blessure": false,
+        "exp": 26,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            4,
+            1,
+            5,
+            3,
+            9
+        ],
+        "cout": 50,
+        "level_up": 4,
+        "comp": [],
+        "equip": [
+            "Hache",
+            "Pistolet Automatique"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 1,
+        "etat": "Indemne",
+        "rang": [
+            4,
+            "Ganger Novice"
+        ],
+        "nom": "Rufus"
+    },
+    {
+        "blessure": false,
+        "exp": 21,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            4,
+            1,
+            5,
+            3,
+            9
+        ],
+        "cout": 50,
+        "level_up": 4,
+        "comp": [
+            "Tir rapide (Fusil d\u2019Assaut)"
+        ],
+        "equip": [
+            "Fusil d\u2019Assaut"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 1,
+        "etat": "Indemne",
+        "rang": [
+            4,
+            "Ganger Novice"
+        ],
+        "nom": "Eug\u00e8ne"
+    },
+    {
+        "blessure": false,
+        "exp": 0,
+        "carac": [
+            4,
+            2,
+            2,
+            3,
+            3,
+            1,
+            3,
+            1,
+            6
+        ],
+        "cout": 25,
+        "level_up": 0,
+        "comp": [],
+        "equip": [
+            "Hache",
+            "Pistolet Automatique"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 0,
+        "etat": "Indemne",
+        "rang": [
+            0,
+            "Bleu"
+        ],
+        "nom": "Archie"
+    },
+    {
+        "blessure": false,
+        "exp": 0,
+        "carac": [
+            4,
+            2,
+            2,
+            3,
+            3,
+            1,
+            3,
+            1,
+            6
+        ],
+        "cout": 25,
+        "level_up": 0,
+        "comp": [],
+        "equip": [
+            "Pistolet Automatique",
+            "Hache"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 0,
+        "etat": "Indemne",
+        "rang": [
+            0,
+            "Bleu"
+        ],
+        "nom": "Hotdog"
+    },
+    {
+        "blessure": false,
+        "exp": 23,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            4,
+            1,
+            5,
+            3,
+            9
+        ],
+        "cout": 50,
+        "level_up": 4,
+        "comp": [
+            "Gu\u00e9risseur",
+            "Feinte"
+        ],
+        "equip": [
+            "Fusil"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 1,
+        "etat": "Indemne",
+        "rang": [
+            4,
+            "Ganger Novice"
+        ],
+        "nom": "Patrick"
+    },
+    {
+        "blessure": false,
+        "exp": 65,
+        "carac": [
+            4,
+            4,
+            4,
+            3,
+            4,
+            1,
+            4,
+            1,
+            8
+        ],
+        "cout": 60,
+        "level_up": 8,
+        "comp": [
+            "Tir rapide (Lance-flammes l\u00e9ger)",
+            "Tir au jug\u00e9",
+            "Tir rapide (Pistolet \u00e0 Plasma)"
+        ],
+        "equip": [
+            "Mitrailleuse"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 2,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "Hodor"
+    },
+    {
+        "blessure": false,
+        "exp": 24,
+        "carac": [
+            4,
+            3,
+            3,
+            3,
+            3,
+            2,
+            5,
+            1,
+            8
+        ],
+        "cout": 50,
+        "level_up": 4,
+        "comp": [],
+        "equip": [
+            "Pistolet Mitrailleur",
+            "Hache"
+        ],
+        "bless": [],
+        "gang": "Rico and the Flying Ducks",
+        "grade": 1,
+        "etat": "Indemne",
+        "rang": [
+            4,
+            "Ganger Novice"
+        ],
+        "nom": "Bill"
+    },
+    {
+        "blessure": false,
+        "exp": 66,
+        "carac": [
+            4,
+            6,
+            5,
+            3,
+            3,
+            1,
+            6,
+            2,
+            8
+        ],
+        "cout": 120,
+        "level_up": 8,
+        "comp": [
+            "Tir d'expert",
+            "Expert en armement"
+        ],
+        "equip": [],
+        "bless": [],
+        "gang": "Bidule",
+        "grade": 3,
+        "etat": "Indemne",
+        "rang": [
+            8,
+            "Champion"
+        ],
+        "nom": "jhgf"
+    }
+]

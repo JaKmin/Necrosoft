@@ -1,0 +1,141 @@
+[
+    {
+        "territoires": [
+            "Conduits de ventilation",
+            "Gisement Min\u00e9ral",
+            "Arch\u00e9otechnologie",
+            "Ferme",
+            "Arch\u00e9otechnologie"
+        ],
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "maison": "Delaque",
+        "date_creation": "31/5/2016",
+        "magot": 30,
+        "joueur": "Benj",
+        "_id": 1,
+        "nom": "Rico and the Flying Ducks",
+        "fichier": "rico_and_the_flying_ducks.gg",
+        "l_gangers": [
+            "Rico",
+            "Joe le Rigolo",
+            "Vince",
+            "Rufus",
+            "Eug\u00e8ne",
+            "Archie",
+            "Hotdog",
+            "Patrick",
+            "Hodor",
+            "Bill"
+        ]
+    },
+    {
+        "territoires": [
+            "Conduits de ventilation",
+            "Scories",
+            "Gisement Min\u00e9ral",
+            "Champignonn\u00e8re",
+            "Arch\u00e9otechnologie"
+        ],
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "maison": "Orlock",
+        "date_creation": "31/5/2016",
+        "magot": 775,
+        "joueur": "Lucas",
+        "_id": 2,
+        "nom": "Smelling Rats",
+        "fichier": "smelling_rats.gg",
+        "l_gangers": [
+            "Rico",
+            "Joe le Rigolo"
+        ]
+    },
+    {
+        "territoires": [],
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "maison": "Van Saar",
+        "date_creation": "31/5/2016",
+        "magot": 1000,
+        "joueur": "JD",
+        "_id": 3,
+        "nom": "Coucou",
+        "fichier": "coucou.gg",
+        "l_gangers": [
+            "Rico",
+            "Joe le Rigolo"
+        ]
+    },
+    {
+        "territoires": [],
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "maison": "Cawdor",
+        "date_creation": "31/5/2016",
+        "magot": 1000,
+        "joueur": "Bidule",
+        "_id": 4,
+        "nom": "Encore",
+        "fichier": "encore.gg",
+        "l_gangers": [
+            "Rico",
+            "Joe le Rigolo"
+        ]
+    },
+    {
+        "territoires": [],
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "maison": "Escher",
+        "date_creation": "31/5/2016",
+        "magot": 1000,
+        "joueur": "Truc",
+        "_id": 5,
+        "nom": "Un",
+        "fichier": "un.gg",
+        "l_gangers": [
+            "Rico",
+            "Joe le Rigolo"
+        ]
+    },
+    {
+        "joueur": "hhtfh",
+        "maison": "Cawdor",
+        "nb_vict": [
+            0,
+            0
+        ],
+        "arsenal": [],
+        "territoires": [
+            "Fosse chimique",
+            "Relations Commerciales",
+            "Scories",
+            "Conduits de ventilation",
+            "Colonie"
+        ],
+        "nom": "Bidule",
+        "date_creation": "9/6/2016",
+        "fichier": "bfuidhgfilu.gg",
+        "l_gangers": [
+            "jhgf"
+        ],
+        "_id": 6,
+        "magot": 880
+    }
+]
